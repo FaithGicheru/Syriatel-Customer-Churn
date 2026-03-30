@@ -56,7 +56,9 @@ Recommendations
 Repository Structure
 
 notebook/ – Jupyter Notebook containing analysis
+https://github.com/FaithGicheru/Syriatel-Customer-Churn/blob/main/Syriatel.ipynb
 
 presentation/ – Non-technical presentation slides
+https://github.com/FaithGicheru/Syriatel-Customer-Churn/blob/main/Customer%20Churn%20Feature%20Analysis.pdf
 
 dashboard/ – Interactive dashboard
